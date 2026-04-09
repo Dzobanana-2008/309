@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main(){
+int main(){+
   int x,y,z,a,b;
   printf("Ovde bi trebalo da je nesto :/");
   printf("Ovde bi trebalo da je nesto :/");
